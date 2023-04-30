@@ -59,7 +59,4 @@ Ex:
 `City.show(my_city_id)`
 
 ### Author
-Cameron Eng <cameron.eng@holbertonschool.com> <br/>
-Rui Feng <394@holbertonschool.com> <br/>
-Miranda Evans <miranda.r.evans@gmail.com> <br/>
-Kevin Yook <kevin.yook@holbertonschool.com> <br/>
+Stephen Okafor <stephenokafor80@yahoo.com>
